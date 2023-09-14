@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: Negative Login Test
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 16.902 s <<< FAILURE! - in Negative Login Test
+Negative Login Test.Negative Login Test DevEx #4  Time elapsed: 2.333 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'The warning message contains "Nach dem @-Zeichen darf das Zeichen "@" nicht verwendet werden."' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then("The warning message contains {string}@{string}")
+public void the_warning_message_contains(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

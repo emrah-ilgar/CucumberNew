@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Eurotech Login Tests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.441 s - in Eurotech Login Tests
